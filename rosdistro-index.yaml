@@ -1,0 +1,10 @@
+%YAML 1.1
+# ROS index file
+# see REP 143: http://ros.org/reps/rep-0143.html
+---
+distributions:
+  r2b2:
+    distribution: [rosdistro.yaml]
+    distribution_cache: ""
+type: index
+version: 3

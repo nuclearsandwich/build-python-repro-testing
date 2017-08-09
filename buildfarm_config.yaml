@@ -79,7 +79,7 @@ prerequisites:
     qYE=
     =Vgio
     -----END PGP PUBLIC KEY BLOCK-----
-rosdistro_index_url: https://gist.githubusercontent.com/nuclearsandwich/91f550e1945a16a8b92ce11894299c25/raw/fc401709a5da107e226a3a06f4cd9e1ba3f51c68
+rosdistro_index_url: https://raw.githubusercontent.com/nuclearsandwich/build-python-repro-testing/master/rosdistro.yaml
 status_page_repositories:
   default: []
 type: buildfarm

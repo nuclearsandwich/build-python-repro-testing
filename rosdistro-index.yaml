@@ -5,6 +5,6 @@
 distributions:
   r2b2:
     distribution: [rosdistro.yaml]
-    distribution_cache: ""
+    distribution_cache: https://raw.githubusercontent.com/nuclearsandwich/build-python-repro-testing/master/r2b2-rosdistro-cache.yaml
 type: index
 version: 3

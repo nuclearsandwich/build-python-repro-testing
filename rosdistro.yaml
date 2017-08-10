@@ -1353,8 +1353,8 @@ repositories:
       tags:
         release: release/r2b2/{package}/{version}
       type: git
-      url: https://github.com/ros2-gbp/ros2cli-release.git
-      version: 0.0.2-0
+      url: https://github.com/nuclearsandwich/test-ros2-ros2cli-release-python-repro.git
+      version: 0.0.2-2
     source:
       type: git
       url: https://github.com/ros2/ros2cli.git

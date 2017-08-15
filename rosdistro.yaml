@@ -696,7 +696,7 @@ repositories:
         release: release/r2b2/{package}/{version}
       type: git
       url: https://github.com/nuclearsandwich/test-ros2-demos-release-python-repro.git
-      version: 0.0.2-4
+      version: 0.0.2-6
     source:
       type: git
       url: https://github.com/ros2/demos.git
